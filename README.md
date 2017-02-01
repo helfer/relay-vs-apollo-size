@@ -5,9 +5,9 @@ A `react` + `react-dom` base is used as a comparison. Each library is then added
 Run `sh sizes.sh` to generate:
 ```
 react size in bytes after min and gzip:
-   42874
+   42446
 relay size in bytes after min and gzip:
-  114068
+  116157
 apollo size in bytes after min and gzip:
-   81982
+   63869
 ```
